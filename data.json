@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "type": "film",
+    "genre": "Bilim Kurgu",
+    "rating": 8.8,
+    "poster": "https://turkcealtyazi.org/images/poster/1375666.jpg",
+    "description": "Rüya içinde rüya konseptiyle zihin hırsızlığı anlatan bir film.",
+    "cast": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page"
+  },
+  {
+    "id": 2,
+    "title": "Breaking Bad",
+    "year": 2008,
+    "type": "dizi",
+    "genre": "Drama",
+    "rating": 9.5,
+    "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0_9ZgFKEc8ldK2a8amUwgzbT2Lx9V7ACP2dirqXvM5Xk8tJvflB4kETr2bz4oVsSBmuPavxk02F3owg_G0eXH2Hczk0KrOx7qpc_DBNimrPk6xvowdqAIMUKjsU5hgnev9rmB6OKu_p5P/s1600/Breaking-Bad-Season-4.jpg",
+    "description": "Kimya öğretmeninin uyuşturucu imparatoruna dönüşüm hikayesi.",
+    "cast": "Bryan Cranston, Aaron Paul"
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "year": 2014,
+    "type": "film",
+    "genre": "Bilim Kurgu",
+    "rating": 8.6,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
+    "description": "İnsanlığın yeni bir yaşam alanı bulma yolculuğu.",
+    "cast": "Matthew McConaughey, Anne Hathaway"
+  },
+  {
+    "id": 4,
+    "title": "Harry Potter ve Felsefe Taşı",
+    "year": 1997,
+    "type": "kitap",
+    "genre": "Fantastik",
+    "rating": 9.0,
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/e/e0/Harry_Potter_and_the_Sorcerer%27s_Stone_%28film%2C_2001%29.jpg",
+    "description": "Harry'nin Hogwarts'a ilk kez gidişini anlatan, serinin ilk kitabı.",
+    "cast": "J. K. Rowling (Yazar)"
+  },
+  {
+    "id": 5,
+    "title": "Yüzüklerin Efendisi: Yüzük Kardeşliği",
+    "year": 1954,
+    "type": "kitap",
+    "genre": "Fantastik",
+    "rating": 9.2,
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/thumb/e/e6/Y%C3%BCz%C3%BCklerinEfendisi%27Y%C3%BCz%C3%BCkKarde%C5%9Fli%C4%9Fi-film.jpg/250px-Y%C3%BCz%C3%BCklerinEfendisi%27Y%C3%BCz%C3%BCkKarde%C5%9Fli%C4%9Fi-film.jpg",
+    "description": "Tek Yüzük'ü yok etmek için başlayan büyük yolculuk.",
+    "cast": "J. R. R. Tolkien (Yazar)"
+  },
+  {
+    "id": 6,
+    "title": "Suç ve Ceza",
+    "year": 1866,
+    "type": "kitap",
+    "genre": "Klasik",
+    "rating": 8.9,
+    "poster": "https://i.dr.com.tr/cache/600x600-0/originals/0000000222779-1.jpg",
+    "description": "Raskolnikov'un suçu, vicdan azabı ve iç hesaplaşmasını anlatan klasik roman.",
+    "cast": "Fyodor Dostoyevski (Yazar)"
+  },
+  {
+    "id": 7,
+    "title": "Sherlock Holmes: Kızıl Dosya",
+    "year": 1887,
+    "type": "kitap",
+    "genre": "Polisiye",
+    "rating": 8.3,
+    "poster": "https://i.dr.com.tr/cache/600x600-0/originals/0001690572001-1.jpg",
+    "description": "Sherlock Holmes'un ilk macerası, gizemli bir cinayet olayı.",
+    "cast": "Arthur Conan Doyle (Yazar)"
+  },
+  {
+    "id": 8,
+    "title": "Stranger Things",
+    "year": 2016,
+    "type": "dizi",
+    "genre": "Bilim Kurgu",
+    "rating": 8.7,
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/thumb/d/dc/Stranger_Things_%281._sezon%29.jpg/250px-Stranger_Things_%281._sezon%29.jpg",
+    "description": "Kayıp bir çocuk, paralel bir evren ve 80'ler atmosferiyle dolu bir dizi.",
+    "cast": "Millie Bobby Brown, Finn Wolfhard"
+  },
+  {
+    "id": 9,
+    "title": "Pride and Prejudice",
+    "year": 1813,
+    "type": "kitap",
+    "genre": "Romantik",
+    "rating": 8.5,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "description": "Aşk, sınıf farkı ve toplumsal baskıları anlatan klasik İngiliz romanı.",
+    "cast": "Jane Austen (Yazar)"
+  },
+  {
+    "id": 10,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "type": "film",
+    "genre": "Aksiyon",
+    "rating": 9.0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
+    "description": "Batman'in Joker ile olan mücadelesini konu alan karanlık bir süper kahraman filmi.",
+    "cast": "Christian Bale, Heath Ledger"
+  }
+]

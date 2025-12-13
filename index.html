@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Film • Dizi • Kitap Kütüphanesi</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <h1>Film • Dizi • Kitap Kütüphanesi</h1>
+      <div class="nav-right">
+        <button id="allMediaBtn">Tümü</button>
+        <button id="favoritesBtn">Favorilerim</button>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section id="filters">
+      <!-- ARAMA -->
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Film / dizi / kitap ara..."
+      />
+
+      <!-- TÜR FİLTRESİ -->
+      <select id="typeFilter">
+        <option value="all">Tür: Hepsi</option>
+        <option value="film">Film</option>
+        <option value="dizi">Dizi</option>
+        <option value="kitap">Kitap</option>
+      </select>
+
+      <!-- KATEGORİ FİLTRESİ -->
+      <select id="genreFilter">
+        <option value="all">Kategori: Hepsi</option>
+        <option value="Bilim Kurgu">Bilim Kurgu</option>
+        <option value="Drama">Drama</option>
+        <option value="Fantastik">Fantastik</option>
+        <option value="Klasik">Klasik</option>
+        <option value="Polisiye">Polisiye</option>
+        <option value="Romantik">Romantik</option>
+        <option value="Aksiyon">Aksiyon</option>
+      </select>
+
+      <!-- YIL FİLTRESİ -->
+      <select id="yearFilter">
+        <option value="all">Yıl: Hepsi</option>
+        <option value="2000plus">2000 ve sonrası</option>
+        <option value="1900_2000">1900 - 2000 arası</option>
+        <option value="before1900">1900 öncesi</option>
+      </select>
+    </section>
+
+    <section id="content">
+      <section id="mediaList" aria-label="Medya Listesi">
+        <!-- Kartlar JS ile gelecek -->
+      </section>
+
+      <aside id="detailPanel" aria-label="Detay Paneli">
+        <h2>Detaylar</h2>
+        <p>Bir film / dizi / kitap seçtiğinde detaylar burada görünecek.</p>
+      </aside>
+    </section>
+  </main>
+
+  <footer>
+    <p>ISE-201 Web Teknolojileri Projesi • 2025</p>
+  </footer>
+
+  <!-- EN ÖNEMLİ KISIM: JS DOSYAN BURADA BAĞLI OLMALI -->
+  <script src="app.js"></script>
+</body>
+</html>
