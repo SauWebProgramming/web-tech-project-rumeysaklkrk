@@ -6,9 +6,9 @@
 
 ---
 
-## 📌 Proje Hakkında
+##  Proje Hakkında
 Bu proje, Web Teknolojileri dersi kapsamında hazırlanmıştır.  
-Proje, modern istemci tarafı web teknolojileri kullanılarak geliştirilmiş,
+Modern istemci tarafı web teknolojileri kullanılarak geliştirilmiş,
 tamamen statik ve etkileşimli bir web uygulamasıdır.
 
 ---
@@ -35,16 +35,20 @@ HTML5, CSS3 ve JavaScript (ES6+) kullanarak:
 
 ##  Proje Özellikleri
 - Sayfa yenilenmeden dinamik içerik yükleme
-- Fetch API ile veri çekme
 - JavaScript ile DOM manipülasyonu
+- Fetch API ile veri çekme
 - Responsive (mobil, tablet, masaüstü uyumlu) tasarım
 - SPA (Single Page Application) yapısı
 
 ---
 
-##  Canlı Demo
-🔗 **GitHub Pages:**  
-👉 https://KULLANICI-ADI.github.io/REPO-ADI/
+## 🔗 GitHub Repository
+👉 https://github.com/SauWebProgramming/web-tech-project-rumeysaklkrk
+
+---
+
+## 🚀 Canlı Demo (GitHub Pages)
+👉 https://sauwebprogramming.github.io/web-tech-project-rumeysaklkrk/
 
 ---
 
