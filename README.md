@@ -13,7 +13,7 @@ tamamen statik ve etkileşimli bir web uygulamasıdır.
 
 ---
 
-## 🎯 Proje Amacı
+##  Proje Amacı
 HTML5, CSS3 ve JavaScript (ES6+) kullanarak:
 - Dinamik,
 - Duyarlı (responsive),
@@ -22,7 +22,7 @@ HTML5, CSS3 ve JavaScript (ES6+) kullanarak:
 
 ---
 
-## 🛠 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 - HTML5 (Semantic HTML)
 - CSS3 (Flexbox / Grid)
 - JavaScript (ES6+)
@@ -33,7 +33,7 @@ HTML5, CSS3 ve JavaScript (ES6+) kullanarak:
 
 ---
 
-## ⚙️ Proje Özellikleri
+##  Proje Özellikleri
 - Sayfa yenilenmeden dinamik içerik yükleme
 - Fetch API ile veri çekme
 - JavaScript ile DOM manipülasyonu
@@ -42,7 +42,7 @@ HTML5, CSS3 ve JavaScript (ES6+) kullanarak:
 
 ---
 
-## 🚀 Canlı Demo
+##  Canlı Demo
 🔗 **GitHub Pages:**  
 👉 https://KULLANICI-ADI.github.io/REPO-ADI/
 
