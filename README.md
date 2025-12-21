@@ -1,4 +1,4 @@
-# 🌐 Web Teknolojileri Projesi
+# 🌐 Web Teknolojileri Projesi - İNTERAKTİF MEDYA KİTAPLIĞI
 
 **Ad Soyad:** Rümeysa Kolukırık  
 **Öğrenci Numarası:** B231200006  
@@ -9,7 +9,7 @@
 ##  Proje Hakkında
 Bu proje, Web Teknolojileri dersi kapsamında hazırlanmıştır.  
 Modern istemci tarafı web teknolojileri kullanılarak geliştirilmiş,
-tamamen statik ve etkileşimli bir web uygulamasıdır.
+tamamen statik ve etkileşimli bir projedir.
 
 ---
 
