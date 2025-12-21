@@ -52,4 +52,3 @@ HTML5, CSS3 ve JavaScript (ES6+) kullanarak:
 
 ---
 
-## 📁 Proje Dosya Yapısı
